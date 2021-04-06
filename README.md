@@ -4,7 +4,7 @@
    
    💻 Full Stack Jr Developer
    
-  🧑‍🎓 Currently studying 3 period of ADS.
+  🧑‍🎓 Studying 3 period of analysis and system development.
    
    In search of a junior programmer opportunity
    
