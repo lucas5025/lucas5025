@@ -4,12 +4,16 @@
    
    💻 Full Stack Jr Developer
    
-👨🏻‍🎓 Studying 3 period of analysis and system development.
+👨🏻‍🎓 Studying 4 period of analysis and system development.
    
    In search of a junior programmer opportunity
    
    learning lately: **JavaScript, ReactJS, React Native, NodeJS** 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas5025/)](https://www.linkedin.com/in/lucas5025/) [![Gmail Badge](https://img.shields.io/badge/-lucasdebarros07@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdebarros07@gmail.com)](mailto:lucasdebarros07@gmail.com)
+   
+<div>
+  <a href="https://github.com/lucas5025">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas5025&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas5025&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
