@@ -4,11 +4,12 @@
    
    💻 Full Stack Jr Developer
    
-👨🏻‍🎓 Studying 4 period of analysis and system development.
+👨🏻‍🎓 Complete degree in systems analysis and development.
+👨🏻‍🎓  Studying 1 period of Information System.
    
    In search of a junior programmer opportunity
    
-   learning lately: **JavaScript, ReactJS, React Native, NodeJS** 
+   learning lately: **JavaScript, ReactJS, TypeScript** 
    
 <div>
   <a href="https://github.com/lucas5025">
