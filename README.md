@@ -5,9 +5,10 @@
    💻 Full Stack Jr Developer
    
 👨🏻‍🎓 Complete degree in systems analysis and development.
+
 👨🏻‍🎓  Studying 1 period of Information System.
    
-   In search of a junior programmer opportunity
+ Looking for an opportunity as a junior programmer
    
    learning lately: **JavaScript, ReactJS, TypeScript** 
    
